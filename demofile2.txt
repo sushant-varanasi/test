@@ -1,0 +1,7 @@
+----------------------------------------------------
+weather stats for KAKINADA
+----------------------------------------------------
+current temperature is:28.28 deg C
+current weather desc :overcast clouds
+current humidity  :71%
+current wind speed  :1.96kmph
